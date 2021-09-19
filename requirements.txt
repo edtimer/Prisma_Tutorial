@@ -1,0 +1,21 @@
+#1.Running database
+#2.Node js
+
+#prisma website
+
+https://www.prisma.io/ 
+
+#Done
+Node initialized
+npm init -y
+
+prisma installed
+npm install prisma --save-dev
+
+to invoke cli
+npx prisma
+
+
+
+#to connect to database
+we can go to schema.prisma and set the database we want
